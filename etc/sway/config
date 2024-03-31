@@ -135,8 +135,7 @@ mode "resize" {
 }
 bindsym $mod+r mode "resize"
 
-#exec_always waybar -c ~/.config/waybar/config1.jsonc
-#exec_always waybar
+exec_always killall waybar; waybar -c ~/.config/waybar/config1.jsonc; waybar
 
 #
 # Status Bar:
