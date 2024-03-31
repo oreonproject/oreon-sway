@@ -1,0 +1,18 @@
+swappy
+xdg-utils
+dragon-drop
+sway
+swaybg
+sway-interactive-screenshot
+swaylock
+waybar
+wf-recorder
+mako
+polkit
+xorg-xwayland
+xdg-desktop-portal-gtk
+xdg-desktop-portal-wlr
+otf-font-awesome
+wofi
+warp-terminal # NOT IN PACMAN DEFAULT REPO - go to https://app.warp.dev/referral/Q9YLPD
+systemd
